@@ -12,4 +12,4 @@ Pull requests são sempre bem vindos, posso ter esquecido de alguma coisa, ou me
 
 ## Licença
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/taffarel55/MPLABXProjects/blob/master/LICENSE)
