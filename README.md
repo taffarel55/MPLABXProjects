@@ -1,32 +1,15 @@
 # MPLABXProjects
-my MPLABX projects
 
-# Foobar
+Aqui estão meus projetos realizados no software MPLAB X IDE, provavelmente será utilizado para códigos de estudo.
 
-Foobar is a Python library for dealing with word pluralization.
+# Conteúdo
 
-## Installation
+[Lista 3 Sistemas Microprocessados](https://github.com/taffarel55/MPLABXProjects/tree/master/lista3_Sismicro.X)
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+## Contribuindo
 
-```bash
-pip install foobar
-```
+Pull requests são sempre bem vindos, posso ter esquecido de alguma coisa, ou me passado em algo. Se for uma mudança grande, abre uma Issue antes pra gente discutir as mudanças. Obrigado!
 
-## Usage
+## Licença
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
 [MIT](https://choosealicense.com/licenses/mit/)
